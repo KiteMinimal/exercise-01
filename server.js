@@ -1,5 +1,5 @@
 const app = require('./src/app')
-const dbConnect = require('./src/db/db')
+const dbConnect = require('./src/models/db')
 dbConnect()
 
 
